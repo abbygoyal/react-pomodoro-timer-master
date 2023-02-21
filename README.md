@@ -4,7 +4,7 @@ Pomodoro Timer with React.js
 
 ## Live Project Link
 
-[Pomodoro Timer](https://redux-counter-apppp.netlify.app/)
+[Pomodoro Timer](https://pomodoro-timer-reactjs.netlify.app/)
 
 # How to fork and clone
 
